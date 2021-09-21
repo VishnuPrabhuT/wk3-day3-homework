@@ -1,0 +1,7 @@
+/* Nest Nav */
+nav {
+  padding: 2%; }
+
+ul {
+  display: flex;
+  list-style: none; }
